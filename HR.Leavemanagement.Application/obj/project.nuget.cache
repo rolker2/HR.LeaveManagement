@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "MTaItNi9AqgtaFWI2u9HsSam9ugORNaeaExkaDgFRBsAp7mFnGQkxUMpyyTY8CBkF25j5fPAvimeRMfDQChjlw==",
+  "success": true,
+  "projectFilePath": "D:\\ROLKER\\DEVS\\HR.Leavemanagement\\HR.Leavemanagement.Application\\HR.Leavemanagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROLKER JEAN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\ROLKER JEAN\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\ROLKER JEAN\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ROLKER JEAN\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\ROLKER JEAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ROLKER JEAN\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\ROLKER JEAN\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ROLKER JEAN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
